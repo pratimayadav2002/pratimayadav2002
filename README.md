@@ -9,6 +9,7 @@ Java Full Stack Developer | Computer Engineering Graduate
 
 📫 Reach Me:
 Email: pratimayadavrm63@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/pratimayadav16p
 
 
