@@ -16,4 +16,18 @@ Email: pratimayadavrm63@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/pratimayadav16p
 
+## 🚀 Tech Stack
+✔ Java  
+✔ HTML, CSS  
+✔ JavaScript  
+✔ SQL  
+✔ JDBC  
+✔ Servlet & JSP (J2EE Basics)  
+✔ Hibernate, Spring
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/pratimayadav16p  
+
 
